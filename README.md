@@ -14,7 +14,7 @@ Saya seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Kompute
 ### Hubungi Saya
 Jika Anda tertarik untuk berkolaborasi atau sekadar mengobrol, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/username) atau [Twitter](https://twitter.com/username).
 ### Portfolio
-Lihat juga portfolio saya di [website pribadi](cdecraft.github.io).
+Lihat juga portfolio saya di [Website Portofolio](https://cdecraft.github.io/).
 ---
 ###
 
