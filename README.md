@@ -1,5 +1,21 @@
-<h2 align="center">Hi 👋! My name is Rizky and I'm a Frontend Developer</h2>
+# My Profile
 
+## Halo, Saya Rizky Al Farid Hafizh😃
+
+Saya seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Komputer Indonesia, dengan latar belakang pendidikan SMK jurusan TKJT. Saya memiliki minat khusus dalam pengembangan web dan pemrograman aplikasi. Saya senang belajar teknologi baru dan terlibat dalam proyek-proyek yang menantang.
+### Keahlian
+- **Bahasa Pemrograman**: JavaScript, TypeScript, Python, PHP
+- **Framework**: React.js, Next.js, Vue.js
+- **Alat Pengembangan**: VS Code, Git, Docker
+### Pendidikan
+- S1 Teknik Informatika, Universitas Komputer Indonesia (Sedang Menempuh)
+- SMK Teknik Komputer dan Jaringan (TKJT)
+
+### Hubungi Saya
+Jika Anda tertarik untuk berkolaborasi atau sekadar mengobrol, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/username) atau [Twitter](https://twitter.com/username).
+### Portfolio
+Lihat juga portfolio saya di [website pribadi](cdecraft.github.io).
+---
 ###
 
 <div align="center">
@@ -55,3 +71,6 @@
 </div>
 
 ###
+
+### Terima kasih telah mengunjungi profil saya😊
+
