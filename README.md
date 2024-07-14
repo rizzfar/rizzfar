@@ -10,6 +10,7 @@ Saya seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Kompute
 ### Pendidikan
 - S1 Teknik Informatika, Universitas Komputer Indonesia (Sedang Menempuh)
 - SMK Teknik Komputer dan Jaringan (TKJT)
+  
 Lihat juga portfolio saya di [Website Portofolio](https://cdecraft.github.io/).
 ---
 ###
