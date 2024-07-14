@@ -6,7 +6,7 @@ Saya seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Kompute
 ### Keahlian
 - **Bahasa Pemrograman**: JavaScript, TypeScript, Python, PHP
 - **Framework**: React.js, Next.js, Vue.js
-- **Alat Pengembangan**: VS Code, Git, Docker
+- **Alat Pengembangan**: VS Code, Git
 ### Pendidikan
 - S1 Teknik Informatika, Universitas Komputer Indonesia (Sedang Menempuh)
 - SMK Teknik Komputer dan Jaringan (TKJT)
