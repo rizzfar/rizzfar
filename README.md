@@ -1,8 +1,8 @@
 # My Profile
 
-## Halo, Saya Rizky Al Farid Hafizh😃
+## Halo, Saya Rizky Al Farid Hafizh😄
 
-Saya seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Komputer Indonesia, dengan latar belakang pendidikan SMK jurusan TKJT. Saya memiliki minat khusus dalam pengembangan web dan pemrograman aplikasi. Saya senang belajar teknologi baru dan terlibat dalam proyek-proyek yang menantang.
+Seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Komputer Indonesia, dengan latar belakang pendidikan SMK jurusan TKJT. Saya memiliki minat khusus dalam pengembangan web dan pemrograman aplikasi. Saya senang belajar teknologi baru dan terlibat dalam proyek-proyek yang menantang.
 ### Keahlian
 - **Bahasa Pemrograman**: JavaScript, TypeScript, Python, PHP
 - **Framework**: React.js, Next.js, Vue.js
