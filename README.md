@@ -9,7 +9,7 @@ Seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Komputer Ind
 - **Alat Pengembangan**: VS Code, Git
 ### Pendidikan
 - S1 Teknik Informatika, Universitas Komputer Indonesia (Sedang Menempuh)
-- SMK Teknik Komputer dan Jaringan (TKJT)
+- SMK Teknik Komputer, Jaringan dan Telekomunikasi (TKJT)
   
 Lihat juga portfolio saya di [Website Portofolio](https://cdecraft.github.io/).
 ---
