@@ -1,19 +1,21 @@
 # My Profile
 
-## Halo, Saya Rizky Al Farid Hafizh😄
+## Hello, I’m Rizky Al Farid Hafizh😄
 
-Seorang mahasiswa yang sedang menempuh pendidikan S1 di Universitas Komputer Indonesia, dengan latar belakang pendidikan SMK jurusan TKJT. Saya memiliki minat khusus dalam pengembangan web dan pemrograman aplikasi. Saya senang belajar teknologi baru dan terlibat dalam proyek-proyek yang menantang.
-### Keahlian
-- **Bahasa Pemrograman**: JavaScript, TypeScript, Python, PHP
-- **Framework**: React.js, Next.js, Vue.js
-- **Alat Pengembangan**: VS Code, Git
-### Pendidikan
-- S1 Teknik Informatika, Universitas Komputer Indonesia (Sedang Menempuh)
-- SMK Teknik Komputer, Jaringan dan Telekomunikasi (TKJT)
-  
-Lihat juga portfolio saya di [Website Portofolio](https://cdecraft.github.io/).
+I am a student currently pursuing a bachelor's degree at Universitas Komputer Indonesia, with an educational background in Computer Networking and Telecommunications from SMK. I have a keen interest in web development and application programming. I enjoy learning new technologies and engaging in challenging projects.
+
+### Skills
+- **Programming Languages**: JavaScript, TypeScript, Python, PHP
+- **Frameworks**: React.js, Next.js, Vue.js
+- **Development Tools**: VS Code, Git
+
+### Education
+- Bachelor of Information Technology, Indonesian Computer University (Currently Enrolled)
+- Vocational High Scholl in Computer Networking and Telecommunications (TKJT)
+
+Check out my portfolio at [Portfolio Website](https://cdecraft.github.io/).
+
 ---
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rizkyalfarid&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
@@ -69,5 +71,4 @@ Lihat juga portfolio saya di [Website Portofolio](https://cdecraft.github.io/).
 
 ###
 
-### Terima kasih telah mengunjungi profil saya😊
-
+### Thank you for visiting my profile😊
