@@ -45,7 +45,6 @@ Check out my portfolio at [Portfolio Website](https://cdecraft.github.io/).
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
 </div>
 
 ###
