@@ -13,7 +13,7 @@ I am a student currently pursuing a bachelor's degree at Universitas Komputer In
 - Bachelor of Information Technology, Indonesian Computer University (Currently Enrolled)
 - Vocational High Scholl in Computer Networking and Telecommunications (TKJT)
 
-Check out my portfolio at [Portfolio Website](https://cdecraft.github.io/).
+Check out my portfolio at [Portfolio Website](https://rizkyalfarid.github.io/).
 
 ---
 
