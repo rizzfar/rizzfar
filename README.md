@@ -18,8 +18,8 @@ Check out my portfolio at [Portfolio Website](https://rizkyalfarid.github.io/).
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rizkyalfarid&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyalfarid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rizzfar&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzfar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
