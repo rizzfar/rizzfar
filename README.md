@@ -2,7 +2,7 @@
 
 ## Hello, I’m Rizky Al Farid Hafizh😄
 
-I am a student currently pursuing a bachelor's degree at Universitas Komputer Indonesia, with an educational background in Computer Networking and Telecommunications from SMK. I have a keen interest in web development and application programming. I enjoy learning new technologies and engaging in challenging projects.
+I am a student currently pursuing a bachelor's degree at Universitas Komputer Indonesia, with an educational background in Computer Networking and Telecommunications from Vocational School. I have a keen interest in web development and application programming. I enjoy learning new technologies and engaging in challenging projects.
 
 ### Skills
 - **Programming Languages**: JavaScript, TypeScript, Python, C++
