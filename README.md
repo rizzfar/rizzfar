@@ -5,15 +5,15 @@
 I am a student currently pursuing a bachelor's degree at Universitas Komputer Indonesia, with an educational background in Computer Networking and Telecommunications from SMK. I have a keen interest in web development and application programming. I enjoy learning new technologies and engaging in challenging projects.
 
 ### Skills
-- **Programming Languages**: JavaScript, TypeScript, Python
-- **Frameworks**: React.js
-- **Development Tools**: VS Code, Git, Github
+- **Programming Languages**: JavaScript, TypeScript, Python, C++
+- **Frameworks**: React.js, Vue.js
+- **Development Tools**: VS Code, Git, Github, Figma
 
 ### Education
 - Bachelor of Information Technology, Indonesian Computer University (Currently Enrolled)
 - Vocational High Scholl in Computer Networking and Telecommunications (TKJT)
 
-Check out my portfolio at [Portfolio Website](https://rizkyalfarid.github.io/).
+Check out my portfolio at [Portfolio Website](https://rizzfar.github.io/).
 
 ---
 
