@@ -1,6 +1,4 @@
-# My Profile
-
-## Hello, I’m Rizky Al Farid Hafizh😄
+# Hello, I’m Rizky Al Farid Hafizh😄
 
 Hi there! 👋 I'm Rizky Al Farid Hafizh, an enthusiastic Informatics Engineering student passionate about exploring the world of technology 🌐. As a beginner in programming, I love learning new things every day, from coding and problem-solving to understanding how systems work.
 
