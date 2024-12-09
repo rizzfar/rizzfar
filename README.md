@@ -2,11 +2,12 @@
 
 ## Hello, I’m Rizky Al Farid Hafizh😄
 
-I am a student currently pursuing a bachelor's degree at Universitas Komputer Indonesia, with an educational background in Computer Networking and Telecommunications from Vocational School. I have a keen interest in web development and application programming. I enjoy learning new technologies and engaging in challenging projects.
+Hi there! 👋 I'm Rizky Al Farid Hafizh, an enthusiastic Informatics Engineering student passionate about exploring the world of technology 🌐. As a beginner in programming, I love learning new things every day, from coding and problem-solving to understanding how systems work.
 
-Check out my portfolio at [Portfolio Website](https://rizzfar.github.io/).
-
----
+- 🔭 Currently learning: Python, HTML, CSS, JavaScript  
+- 🎯 Interests: Web development, Android Development, and Computer Networking  
+- 📚 Always curious about: AI, IoT, and software engineering best practices  
+- 🌱 Goal: To become a skilled software engineer 🚀  
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rizzfar&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
