@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Rizky Al Farid Hafizh, an enthusiastic Informatics Engineering student passionate about exploring the world of technology 🌐. As a beginner in programming, I love learning new things every day, from coding and problem-solving to understanding how systems work.
 
-- 🔭 Currently learning: Python, HTML, CSS, JavaScript  
+- 🔭 Currently learning: Python, PHP, React, JavaScript  
 - 🎯 Interests: Web development, Product Design, and Computer Networking  
 - 📚 Always curious about: AI, IoT, and software engineering best practices  
 - 🌱 Goal: To become a skilled software engineer 🚀  
