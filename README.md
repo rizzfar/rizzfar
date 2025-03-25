@@ -1,26 +1,32 @@
 # Hi, I’m Rizky Al Farid Hafizh 😄
 
-I'm an Informatics Engineering student with a big passion for learning tech and building cool stuff 🚀.  
-Currently leveling up my skills in: **Python, PHP, React, and JavaScript**.  
+Informatics Engineering student, passionate about tech and building cool projects 🚀  
+Currently learning: **Python, PHP, React, JavaScript**  
 
-### 🔎 Interest  
+---
+
+### 🔎 Interests
 - Web Development  
 - Product Design  
 - Computer Networking  
 
-### 💡 Always curious about:  
+---
+
+### 💡 Curious About
 - AI  
 - IoT  
 - Software Engineering best practices  
 
-### 🎯 My Goal:  
-To become a skilled and impactful software engineer! 🌟  
+---
+
+### 🎯 Goal
+Become a skilled and impactful software engineer! 🌟  
 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rizzfar&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzfar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rizzfar&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzfar&locale=en&layout=compact&theme=graywhite&hide_border=false" height="130" alt="top languages" />
 </div>
 
 ---
@@ -39,22 +45,22 @@ To become a skilled and impactful software engineer! 🌟
 
 ---
 
-### 🔗 Let’s Connect!
+### 🔗 Connect with me!
 <div align="center">
   <a href="https://www.instagram.com/rizky31afh_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:alfaridrizky69@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="www.linkedin.com/in/rizky-al-farid-hafizh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rizky-al-farid-hafizh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.hackerrank.com/profile/alfaridrizky69" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="HackerRank" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>  
 
 ---
 
-### 🙏 Thank you for visiting my profile! 😊  
+### 🙏 Thanks for stopping by! 😊  
